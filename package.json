@@ -27,7 +27,7 @@
     "fuse.js": "^6.4.1",
     "graphql": "^15.3.0",
     "he": "^1.2.0",
-    "loader-utils": "^2.0.0",
+    "loader-utils": "^2.0.4",
     "next": "9.5.2",
     "next-compose-plugins": "^2.2.0",
     "path": "^0.12.7",
